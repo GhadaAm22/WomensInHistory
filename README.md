@@ -11,19 +11,24 @@ Ghada Alshahrani.
 
 Solution Concept
 
-An API to help users get, create, update and delete information about designs
+Create a Database and API for Arabic women in history
 
 App Statement
 
-creating API that help people to know more information about Fashion designers around the world.
+Create an API that includes famous women in history
 
 Feature List
 
-Create designs information Get all designers and designs information Update designs information Delete designs information designers info with CRUD API:
+1-get all famous woman
+2-get famous women with a spastic id
+3-delete famous women
+4-update famous women infos
+5-add new famous women
 
 
 
 Database Schema:
+<img width="591" alt="Screen Shot 1444-08-30 at 9 34 38 AM" src="https://user-images.githubusercontent.com/116793866/226826104-ee60f1a9-1dc1-426f-9183-8bc5fa35714a.png">
 
 
 
