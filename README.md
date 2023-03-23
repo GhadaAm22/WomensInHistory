@@ -2,7 +2,7 @@
 
 ## Solution Concept :
 
-Create a Database and API for Arabic women in history
+Create a Database and API for women in history in Arabic Language
 
 ## App Statement :
 
@@ -37,9 +37,7 @@ Create an API that includes famous women in history
 
 ## Team Member :
 * Ghada Alshahrani.
-
 * Haneen Behery.
-
 * Rahaf Alhejaili.
 
 
