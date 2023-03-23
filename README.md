@@ -6,7 +6,7 @@ Create a Database and API for women in history in Arabic Language
 
 ## App Statement :
 
-Creating API that provide the information of famous women in history and their achievement.
+Creating API that provide the information of the famous women in history and their achievement.
 
 ## Feature List :
 
