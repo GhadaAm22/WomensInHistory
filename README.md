@@ -11,7 +11,7 @@ Creating API that provide the information of the famous women in history and the
 ## Feature List :
 
 * get all famous woman
-* get famous women with a spastic id
+* get famous women with a spasfic id
 * delete famous women
 * update famous women infos
 * add new famous women
