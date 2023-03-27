@@ -32,7 +32,8 @@ Creating API that provide the information of the famous women in history and the
 
 ## Database Schema :
 
-<img width="591" alt="Screen Shot 1444-08-30 at 9 34 38 AM" src="https://user-images.githubusercontent.com/116793866/226826104-ee60f1a9-1dc1-426f-9183-8bc5fa35714a.png">
+![22d3dbc9-2fe8-4617-baa8-c309f8e02e04](https://user-images.githubusercontent.com/116795488/227909452-858a4227-b46c-42f3-9576-e40016d176ed.JPG)
+
 
 
 ## Team Member :
